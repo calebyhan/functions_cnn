@@ -2,6 +2,8 @@
 
 Uses Convoluted Neural Networks (CNN) to recognize various functions such as circles, ellipses, parabolas, and linear functions.
 
+Dataset trained and validated combined from [Fede Herz](https://www.kaggle.com/datasets/fhernand23/simple-shapes) and [Yefeng Xia](https://www.kaggle.com/datasets/kopfgeldjaeger/function-graphs-polynomial).
+
 <details>
   <summary>Layers</summary>
   
