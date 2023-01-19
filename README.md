@@ -551,3 +551,7 @@ Epoch 250/250
 ```
 
 </details>
+
+Validation accuracy: 99.04%
+
+![Epochs](https://cdn.discordapp.com/attachments/905301278647783428/1065400297205280858/w48SQSqu3VJQAAAABJRU5ErkJggg.png)
