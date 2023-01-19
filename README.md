@@ -4,6 +4,19 @@ Uses Convoluted Neural Networks (CNN) to recognize various functions such as cir
 
 Dataset trained and validated combined from [Fede Herz](https://www.kaggle.com/datasets/fhernand23/simple-shapes) and [Yefeng Xia](https://www.kaggle.com/datasets/kopfgeldjaeger/function-graphs-polynomial).
 
+Example run:
+```
+Train model? WARNING takes at least 6 hours depending on computer. If not, use given saved model. [y]es/[n]o: n
+
+If circle, ellipse, square root equations, enter [y]es: n
+Enter a equation for the ai to guess as (y = ) in terms of x: x+1
+1/1 [==============================] - 0s 149ms/step
+
+linear function - 0.9878997206687927
+parabolic function - 0.01071228552609682
+cubic function - 0.0013856554869562387
+```
+
 <details>
   <summary>Layers</summary>
   
